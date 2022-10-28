@@ -8,7 +8,7 @@ The `+navtools` package from the [navtools][navtools-url] project needs to be ad
 
 ## License
 
-The `*/report` files associated with this repository are prohibited from being copied via any medium, and the underlying MATLAB source code used to develop the content in those files is licensed under the [MIT license](LICENSE.md)
+The `*/report` files associated with this repository are prohibited from being copied via any medium. The underlying MATLAB source code used to develop the content in those files is licensed under the [MIT license](LICENSE.md)
 
 <!-- MARKDOWN Links & Images -->
 
